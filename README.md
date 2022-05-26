@@ -12,7 +12,7 @@ iv) when the synchronization is to be established with a new cell during handove
 
 Random access procedure can be accept in two distinctive way, such as 
 
-###1) Contention Based Random Access
+### 1) Contention Based Random Access
 	
 **Step 1:** The UE has to select the preamble randomly from the pool of resources which was shared with other UE and transmit the preamble. Now, there are some designated slot where, the UE was only able to send the random access preamble known as PRACH. Now, the UE is synchronized and also have system information, it was able to locate this designated slots and after finding it, then transmit the random access preamble in the appropriate places.
 
