@@ -38,9 +38,9 @@ Then one of the UE will provide the unique ID and that device temporary ID will 
 
 ### 2) Contention Free Random Access
 
-It was triggered when the UE is handed over do another service and then there is downlink data for the UE, when there is non standalone mode is yours ennu an arsenal is established.
+It was triggered when the UE is handed over do another service and then there is downlink data for the UE, when there is non standalone mode and new NR cell is established.
 
-**Step1:** random access preamble assignment step one. In contention based random access, preamble, set of preambles to which it is possible that more device can have the same preamble. Now in CFRA, the rent is triggered so it will not select the same preamble for different UE. Preamble and give it to the UE and suggest the UE will start the random access procedure in 
+**Step1:** random access preamble assignment is done in this step. In contention based random access, preamble are selected from set of preambles. In which, it is possible that more device can have the same preamble. Now in CFRA, the RAN is triggered, so it will not select the same preamble for different UE. Then RAN selects the preamble and give it to the UE and suggest the UE to start the random access procedure. 
 
 **Step 2:** the unique preamble is received. The random access request is made from UE to the RAN. 
 
